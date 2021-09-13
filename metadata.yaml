@@ -1,0 +1,32 @@
+_repo: The-Myth-of-the-Birth-of-the-Hero-A-psychological-interpretation-of-mythology_66192
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Jelliffe, Smith Ely
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '32894'
+    url: http://www.gutenberg.org/2009/agents/32894
+    wikipedia: http://en.wikipedia.org/wiki/Smith_Ely_Jelliffe
+  - agent_name: Robbins, F.
+    gutenberg_agent_id: '53676'
+    url: http://www.gutenberg.org/2009/agents/53676
+creator:
+  author:
+    agent_name: Rank, Otto
+    birthdate: 1884
+    deathdate: 1939
+    gutenberg_agent_id: '26165'
+    url: http://www.gutenberg.org/2009/agents/26165
+description: ''
+gutenberg_issued: '2021-08-31'
+identifiers:
+  gutenberg: '66192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Myth of the Birth of the Hero _ A psychological interpretation of mythology
+url: http://www.gutenberg.org/ebooks/66192
